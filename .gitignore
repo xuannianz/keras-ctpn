@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
 
 # Distribution / packaging
 .Python
@@ -102,3 +101,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.h5
+checkpoints/
+logs/
+.idea/
